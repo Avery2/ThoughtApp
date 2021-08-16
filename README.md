@@ -16,10 +16,24 @@ Start the app in the `dev` environment:
 yarn start
 ```
 
-To package apps for the local platform:
+To package app:
 
 ```bash
+# for the local platform:
 yarn package
+
+# multiple platforms:
+yarn package-all
+
+# with options:
+yarn package --[option]
+# Example: yarn package --mac
+```
+
+To create a production build:
+
+```bash
+yarn build
 ```
 
 Made with Electron React Boilerplate which uses [Electron](https://electron.atom.io/), [React](https://facebook.github.io/react/), [React Router](https://github.com/reactjs/react-router), [Webpack](https://webpack.js.org/) and [React Fast Refresh](https://www.npmjs.com/package/react-refresh).

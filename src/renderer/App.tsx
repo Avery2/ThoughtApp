@@ -19,7 +19,7 @@ const Title = styled.h1`
 const Hello = () => {
   return (
     <LayoutContainer>
-      <Title>ThoughtApp</Title>
+      <Title>Thoughts</Title>
       <InputArea />
     </LayoutContainer>
   );

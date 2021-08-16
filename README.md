@@ -1,6 +1,10 @@
-[![Test](https://github.com/Avery2/ThoughtApp/actions/workflows/test.yml/badge.svg)](https://github.com/Avery2/ThoughtApp/actions/workflows/test.yml)
-
 <img width="1136" alt="Screen Shot 2021-08-16 at 12 20 06 AM" src="https://user-images.githubusercontent.com/53503018/129514708-2cff0d2b-f43b-4742-8b27-974ed7d01966.png">
+
+<div align="center">
+  <a href="https://github.com/Avery2/ThoughtApp/actions/workflows/test.yml"><img alt="Tests" src="https://github.com/Avery2/ThoughtApp/actions/workflows/test.yml/badge.svg"/></a>
+  <a href="http://www.averychan.site/ThoughtApp/"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=site&up_color=green&up_message=online&url=https%3A%2F%2Fwww.averychan.site/ThoughtApp/"/></a>
+  <a href="https://github.com/Avery2/ThoughtApp"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%230077B5.svg?style=flat&logo=github&logoColor=white&color=25292E"/></a>
+</div><br/>
 
 ## Idea
 

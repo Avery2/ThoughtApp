@@ -6,6 +6,8 @@
 
 I want to add text-to-speech capabilities to notion though an app. I plan to use open-source [DeepSpeech](https://github.com/mozilla/DeepSpeech) and the [Notion API](https://developers.notion.com/reference/intro). The reasoning to create an app is that I wanted an excuse to use Electron, and the Notion API can currently only update text, and you must manually record audio files in a seperate app and upload them. The goal is to be able to follow Notion's nested behaviour with toggle lists with just normal audio recording.
 
+<img width="1552" alt="Screen Shot 2021-08-16 at 12 34 17 AM" src="https://user-images.githubusercontent.com/53503018/129515746-128f18a1-818c-40e5-b9c8-6de71b3192d6.png">
+
 ## Starting Development
 
 Start the app in the `dev` environment:

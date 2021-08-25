@@ -40,6 +40,12 @@ To create a production build:
 yarn build
 ```
 
+## First run
+
+1. `yarn install`
+2. `yarn package`
+3. `yarn start`
+
 Made with Electron React Boilerplate which uses [Electron](https://electron.atom.io/), [React](https://facebook.github.io/react/), [React Router](https://github.com/reactjs/react-router), [Webpack](https://webpack.js.org/) and [React Fast Refresh](https://www.npmjs.com/package/react-refresh).
 
 See electron-react-boilerplate [docs and guides here](https://electron-react-boilerplate.js.org/docs/installation).
